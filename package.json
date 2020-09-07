@@ -1,0 +1,23 @@
+{
+  "name": "naija-locations",
+  "version": "1.0.0",
+  "description": "A simple utility package that serves states and locations in nigeria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbeyseto/naija-locations.git"
+  },
+  "keywords": [
+    "nigerian",
+    "locations"
+  ],
+  "author": "Adenle Abiodun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbeyseto/naija-locations/issues"
+  },
+  "homepage": "https://github.com/abbeyseto/naija-locations#readme"
+}
