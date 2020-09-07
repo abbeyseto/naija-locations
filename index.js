@@ -17,7 +17,7 @@ module.exports = {
     }
 
     if (["fct", "f.c.t", "abuja", "f c t"].includes(state)) {
-      state = "Federal Capital Territory";
+      state = "FCT";
     }
 
     return naija_data.find(function (nigeriaStates) {
